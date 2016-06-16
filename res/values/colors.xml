@@ -12,6 +12,8 @@
      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
      See the License for the specific language governing permissions and
      limitations under the License.
+
+     Modified by the Crimson Android Project
 -->
 
 <resources>
@@ -100,6 +102,6 @@
     <color name="zen_rule_name_warning">@color/system_warning_color</color>
 
     <!-- Accent color that matches the settings launcher icon -->
-    <color name="icon_accent">#ffabffec</color>
+    <color name="icon_accent">#ffB71C1C</color><!-- red 900 -->
 
 </resources>
